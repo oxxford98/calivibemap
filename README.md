@@ -85,8 +85,6 @@ For *CaliVibeMap*, a simple CI pipeline could check if the `students/*.json` fil
 ## 📂 Project Structure
 
 *   `css/`: Stylesheets.
-
-
 *   `js/`: Map logic and interaction.
 *   `data/`:
     *   `index.json`: Master list of student files.
