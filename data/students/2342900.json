@@ -1,0 +1,10 @@
+{
+    "id": 4,
+    "name": "Pedro Luis Parrales",
+    "lat": 3.404995678866494,
+    "lng": -76.51308523913842,
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["Billar", "Vue.js", "Juegos"],
+    "dislikes": ["Bugs en Prod", "React.js"],
+    "socialMedia": "@oxxford98"
+}
