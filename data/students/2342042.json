@@ -1,0 +1,11 @@
+{
+    "id": 5,
+    "name": "Alex Franco Imbacuan Culchac",
+    "lat": 3.4231134754516006,
+    "lng": -76.51308523913842,
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["Billar", "react.js", "Juegos"],
+    "dislikes": ["Bugs en Prod", "React.js"],
+    "socialMedia": "@Alex"
+}
+
