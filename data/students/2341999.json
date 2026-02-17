@@ -1,0 +1,10 @@
+{
+    "id": 8,
+    "name": "Juan Jose Rojas",
+    "lat": 3.4761095329730245,
+    "lng": -76.52771750777306,
+    "photo": "https://i.redd.it/v05bevigwlza1.png",
+    "likes": ["Videojuegos", "Python", "Linux"],
+    "dislikes": ["Bugs en Prod", "Java"],
+    "socialMedia": "@Cazatrolas"
+}
