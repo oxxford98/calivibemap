@@ -1,0 +1,10 @@
+{
+    "id": 9,
+    "name": "Olman Alexander Silva",
+    "lat": 3.3585912913084623,
+    "lng": -76.53027108952175,
+    "photo": "https://randomuser.me/api/portraits/lego/5.jpg",
+    "likes": ["IA", "space exploration", "sifi movies", "Hamburgers"],
+    "dislikes": ["violence", "slow internet"],
+    "socialMedia": "@derex-code"
+}
