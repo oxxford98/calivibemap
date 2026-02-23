@@ -1,0 +1,11 @@
+{
+    "id": 2343014,
+    "name": "Juan David Sevilla",
+    "lat": 3.4203219867141788,
+    "lng": -76.52913826589273,
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["Fútbol", "Música", "Juegos"],
+    "dislikes": ["Bugs en Prod", "React.js"],
+    "socialMedia": "@juandasevilla"
+}
+
